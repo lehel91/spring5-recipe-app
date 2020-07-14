@@ -1,4 +1,4 @@
-package guru.springframework.domian;
+package guru.springframework.domain;
 
 /**
  * @author lehel
